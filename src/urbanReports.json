@@ -1,0 +1,214 @@
+{
+    "urbanReports": {
+      "firebase_test_001": {
+        "request": {
+          "id": "firebase_test_001",
+          "source_type": "AUTHORITY",
+          "source_id": "traffic_control_blr",
+          "text": "🔥 Firebase Real-time Test - Heavy traffic reported on MG Road junction",
+          "reported_from_location": {
+            "latitude": 12.9716,
+            "longitude": 77.5946
+          },
+          "reported_at_timestamp": "2025-01-25T10:30:00.000Z"
+        },
+        "report_metadata": {
+          "source_type": "AUTHORITY",
+          "report_type": "CURRENT_EVENT",
+          "report_priority": "HIGH",
+          "report_topics": ["traffic", "infrastructure", "firebase_test"],
+          "reported_at_timestamp": "2025-01-25T10:30:00.000Z",
+          "reported_from_location": {
+            "latitude": 12.9716,
+            "longitude": 77.5946
+          }
+        },
+        "holistic_summary": {
+          "id": "firebase_test_001",
+          "title": "🚨 LIVE: Heavy Traffic - MG Road",
+          "details": "Firebase real-time connection working! Heavy traffic jam reported at MG Road junction due to signal malfunction. Expect 15-20 minute delays. Alternative routes via Brigade Road recommended.",
+          "locations": [
+            {
+              "latitude": 12.9716,
+              "longitude": 77.5946
+            }
+          ],
+          "location_names": ["MG Road", "Brigade Road Junction", "Commercial Street"],
+          "files": [],
+          "topics": ["traffic", "infrastructure", "firebase_test"],
+          "report_type": "CURRENT_EVENT",
+          "report_priority": "HIGH",
+          "start_timestamp": "2025-01-25T10:30:00.000Z",
+          "end_timestamp": "2025-01-25T12:30:00.000Z"
+        }
+      },
+      "firebase_test_002": {
+        "request": {
+          "id": "firebase_test_002",
+          "source_type": "BUSINESS",
+          "source_id": "koramangala_events",
+          "text": "🎉 Live Tech Meetup happening at Koramangala - Join us now!",
+          "reported_from_location": {
+            "latitude": 12.9352,
+            "longitude": 77.6245
+          },
+          "reported_at_timestamp": "2025-01-25T11:00:00.000Z"
+        },
+        "report_metadata": {
+          "source_type": "BUSINESS",
+          "report_type": "CURRENT_EVENT",
+          "report_priority": "MEDIUM",
+          "report_topics": ["event", "tech", "meetup", "firebase_test"],
+          "reported_at_timestamp": "2025-01-25T11:00:00.000Z",
+          "reported_from_location": {
+            "latitude": 12.9352,
+            "longitude": 77.6245
+          }
+        },
+        "holistic_summary": {
+          "id": "firebase_test_002",
+          "title": "🎯 Tech Meetup - Koramangala",
+          "details": "Firebase integration working perfectly! Join our live tech meetup discussing AI, Web3, and startup ecosystem. Free entry, networking, and refreshments provided.",
+          "locations": [
+            {
+              "latitude": 12.9352,
+              "longitude": 77.6245
+            }
+          ],
+          "location_names": ["Koramangala", "Forum Mall", "Startup Hub"],
+          "files": [],
+          "topics": ["event", "tech", "meetup", "firebase_test"],
+          "report_type": "CURRENT_EVENT",
+          "report_priority": "MEDIUM",
+          "start_timestamp": "2025-01-25T11:00:00.000Z",
+          "end_timestamp": "2025-01-25T15:00:00.000Z"
+        }
+      },
+      "firebase_test_003": {
+        "request": {
+          "id": "firebase_test_003",
+          "source_type": "AUTHORITY",
+          "source_id": "bescom_bangalore",
+          "text": "⚡ Scheduled power maintenance in HSR Layout - Real-time update from Firebase",
+          "reported_from_location": {
+            "latitude": 12.9266,
+            "longitude": 77.6277
+          },
+          "reported_at_timestamp": "2025-01-25T09:00:00.000Z"
+        },
+        "report_metadata": {
+          "source_type": "AUTHORITY",
+          "report_type": "CURRENT_EVENT",
+          "report_priority": "LOW",
+          "report_topics": ["power", "maintenance", "firebase_test"],
+          "reported_at_timestamp": "2025-01-25T09:00:00.000Z",
+          "reported_from_location": {
+            "latitude": 12.9266,
+            "longitude": 77.6277
+          }
+        },
+        "holistic_summary": {
+          "id": "firebase_test_003",
+          "title": "⚡ Power Maintenance - HSR Layout",
+          "details": "Real-time Firebase update! Scheduled power maintenance in progress in HSR Layout sectors 1-4. Power will be restored by 6 PM today. Backup generators available for essential services.",
+          "locations": [
+            {
+              "latitude": 12.9266,
+              "longitude": 77.6277
+            }
+          ],
+          "location_names": ["HSR Layout", "Sector 1", "Sector 2", "Sector 4"],
+          "files": [],
+          "topics": ["power", "maintenance", "firebase_test"],
+          "report_type": "CURRENT_EVENT",
+          "report_priority": "LOW",
+          "start_timestamp": "2025-01-25T09:00:00.000Z",
+          "end_timestamp": "2025-01-25T18:00:00.000Z"
+        }
+      },
+      "firebase_test_004": {
+        "request": {
+          "id": "firebase_test_004",
+          "source_type": "USER",
+          "source_id": "citizen_reporter_101",
+          "text": "🚇 Metro Purple Line experiencing delays - Citizen report via Firebase",
+          "reported_from_location": {
+            "latitude": 12.9780,
+            "longitude": 77.5909
+          },
+          "reported_at_timestamp": "2025-01-25T11:45:00.000Z"
+        },
+        "report_metadata": {
+          "source_type": "USER",
+          "report_type": "CURRENT_EVENT",
+          "report_priority": "MEDIUM",
+          "report_topics": ["metro", "transport", "delay", "firebase_test"],
+          "reported_at_timestamp": "2025-01-25T11:45:00.000Z",
+          "reported_from_location": {
+            "latitude": 12.9780,
+            "longitude": 77.5909
+          }
+        },
+        "holistic_summary": {
+          "id": "firebase_test_004",
+          "title": "🚇 Metro Delay - Purple Line",
+          "details": "Citizen reported via Firebase! Purple line metro experiencing 10-15 minute delays due to technical snag at Cubbon Park station. Alternative transport: Use Green line or bus services.",
+          "locations": [
+            {
+              "latitude": 12.9780,
+              "longitude": 77.5909
+            }
+          ],
+          "location_names": ["Cubbon Park Metro", "Purple Line", "Namma Metro"],
+          "files": [],
+          "topics": ["metro", "transport", "delay", "firebase_test"],
+          "report_type": "CURRENT_EVENT",
+          "report_priority": "MEDIUM",
+          "start_timestamp": "2025-01-25T11:45:00.000Z",
+          "end_timestamp": "2025-01-25T13:00:00.000Z"
+        }
+      },
+      "firebase_test_005": {
+        "request": {
+          "id": "firebase_test_005",
+          "source_type": "BUSINESS",
+          "source_id": "indiranagar_restaurant",
+          "text": "🍕 New restaurant opening in Indiranagar - Live Firebase update!",
+          "reported_from_location": {
+            "latitude": 12.9719,
+            "longitude": 77.6412
+          },
+          "reported_at_timestamp": "2025-01-25T12:00:00.000Z"
+        },
+        "report_metadata": {
+          "source_type": "BUSINESS",
+          "report_type": "CURRENT_EVENT",
+          "report_priority": "LOW",
+          "report_topics": ["food", "restaurant", "opening", "firebase_test"],
+          "reported_at_timestamp": "2025-01-25T12:00:00.000Z",
+          "reported_from_location": {
+            "latitude": 12.9719,
+            "longitude": 77.6412
+          }
+        },
+        "holistic_summary": {
+          "id": "firebase_test_005",
+          "title": "🍕 New Restaurant - Indiranagar",
+          "details": "Firebase live update! Grand opening of 'Bangalore Bites' in Indiranagar today! 50% off on all items, live music, and food tastings. Open till midnight. Parking available.",
+          "locations": [
+            {
+              "latitude": 12.9719,
+              "longitude": 77.6412
+            }
+          ],
+          "location_names": ["Indiranagar", "100 Feet Road", "CMH Road"],
+          "files": [],
+          "topics": ["food", "restaurant", "opening", "firebase_test"],
+          "report_type": "CURRENT_EVENT",
+          "report_priority": "LOW",
+          "start_timestamp": "2025-01-25T12:00:00.000Z",
+          "end_timestamp": "2025-01-26T00:00:00.000Z"
+        }
+      }
+    }
+  }
